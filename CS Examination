@@ -1,0 +1,143 @@
+Q.1 - What is Computer Hardware ?
+Ans - Computer hardware refers to the physical components that make up a computer system. These components can be touched and seen and are essential for the functioning of a computer. Hardware includes devices such as the central processing unit (CPU), motherboard, memory (RAM), storage devices (hard drives, solid-state drives), input devices (keyboard, mouse), output devices (monitor, printer), graphics cards, sound cards, network cards, and various other peripheral devices.
+
+Here's a brief overview of some key hardware components:
+
+1. **Central Processing Unit (CPU)**: Often referred to as the brain of the computer, the CPU executes instructions from programs and processes data.
+
+2. **Motherboard**: This is the main circuit board of the computer. It houses the CPU, memory, and connectors for other peripherals.
+
+3. **Memory (RAM)**: Random Access Memory temporarily stores data that the CPU is currently working on. It is volatile memory, meaning it loses its contents when the computer is powered off.
+
+4. **Storage Devices**: Hard disk drives (HDDs) and solid-state drives (SSDs) are used to store data persistently. HDDs use spinning magnetic disks, while SSDs use flash memory, providing faster access times.
+
+5. **Input Devices**: Devices like keyboards, mice, and touchpads allow users to input data into the computer.
+
+6. **Output Devices**: Monitors, printers, and speakers are examples of output devices that display or produce information processed by the computer.
+
+7. **Graphics Cards (GPU)**: Responsible for rendering images and videos, particularly important for gaming, design, and video editing.
+
+8. **Sound Cards**: Handle audio input and output, often integrated into the motherboard or part of a dedicated expansion card.
+
+9. **Network Interface Cards (NIC)**: Enable the computer to connect to networks, such as Ethernet or Wi-Fi.
+
+10. **Power Supply Unit (PSU)**: Provides electrical power to the computer's components.
+
+These components work together to execute tasks and run software on a computer system.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Q.2 What is Computer Software ?
+Ans - Computer software refers to a set of instructions, programs, or data used to operate computers and perform specific tasks. Unlike hardware, which comprises physical components, software is intangible and exists as code or data stored electronically. Software enables users to interact with hardware and perform various functions, from running applications to managing system operations.
+
+There are two main categories of software:
+
+1. **System Software**: This software manages and controls the hardware components of a computer system, providing a platform for running application software. Examples include:
+
+   - **Operating Systems (OS)**: Software that manages hardware resources and provides services to other software applications. Popular operating systems include Windows, macOS, Linux, and Unix.
+   
+   - **Device Drivers**: Programs that allow the operating system to communicate with hardware devices, such as printers, graphics cards, and network adapters.
+   
+   - **Utilities**: Tools designed to perform specific system tasks, such as disk cleanup, antivirus scanning, and system maintenance.
+
+2. **Application Software**: This software includes programs designed to perform specific tasks or provide entertainment to end-users. Examples include:
+
+   - **Word Processors**: Programs like Microsoft Word or Google Docs used for creating and editing documents.
+   
+   - **Spreadsheets**: Applications like Microsoft Excel or Google Sheets used for organizing data in tabular format.
+   
+   - **Web Browsers**: Software such as Google Chrome, Mozilla Firefox, or Microsoft Edge used to access and navigate the internet.
+   
+   - **Media Players**: Programs like VLC Media Player or Windows Media Player used for playing audio and video files.
+   
+   - **Games**: Software designed for entertainment purposes, ranging from simple puzzle games to complex multiplayer online games.
+
+Software can be further categorized based on its distribution model:
+
+- **Proprietary Software**: Developed and distributed by a single company, often requiring a license fee for use.
+  
+- **Open Source Software**: Developed collaboratively by a community of developers, with the source code freely available for modification and redistribution.
+
+Software is essential for the operation of modern computer systems, enabling users to perform a wide range of tasks efficiently and effectively.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Q.3. Explain Javascript History ?
+Ans - JavaScript, often abbreviated as JS, is a high-level, interpreted programming language primarily used for creating interactive effects within web browsers. It was initially developed by Brendan Eich at Netscape Communications Corporation in 1995. Here's a brief overview of JavaScript's history:
+
+1. **Birth of JavaScript**: In 1995, Netscape Communications Corporation was looking for a way to add interactivity to its web browser, Netscape Navigator. Brendan Eich was tasked with creating a scripting language in just ten days. The result was JavaScript, originally named Mocha, then LiveScript, and finally renamed JavaScript due to the popularity of Java at the time.
+
+2. **Early Growth and Adoption**: JavaScript was quickly adopted by developers due to its simplicity and ability to enhance web pages with dynamic behavior. In 1996, Microsoft introduced JScript as its own implementation of JavaScript for Internet Explorer, leading to cross-browser compatibility challenges.
+
+3. **Standardization Efforts**: In 1997, Netscape submitted JavaScript to the European Computer Manufacturers Association (ECMA) International for standardization. This led to the creation of the ECMAScript standard, which defines the core features of the language. The first edition of ECMAScript was released in 1997.
+
+4. **Browser Wars and Stagnation**: During the late 1990s and early 2000s, the web browser market was marked by intense competition between Internet Explorer and Netscape Navigator. JavaScript development stagnated during this period due to inconsistent browser implementations and lack of standardization.
+
+5. **Revival with AJAX**: In the early 2000s, JavaScript experienced a revival with the emergence of Asynchronous JavaScript and XML (AJAX). AJAX allowed web pages to retrieve data from a server asynchronously without reloading the entire page, leading to more dynamic and responsive web applications.
+
+6. **Modern JavaScript**: From the mid-2000s onwards, JavaScript saw significant advancements with the introduction of new language features and libraries/frameworks such as jQuery, AngularJS, React, and Vue.js. These tools revolutionized web development by simplifying complex tasks and improving developer productivity.
+
+7. **ECMAScript Evolution**: The ECMAScript standard continued to evolve, with new editions introducing additional language features and improvements. Notable versions include ECMAScript 5 (2009), ECMAScript 6 (2015, also known as ES6 or ES2015), and subsequent yearly updates.
+
+8. **Node.js**: In 2009, Ryan Dahl released Node.js, a server-side JavaScript runtime built on the V8 JavaScript engine. Node.js allowed developers to use JavaScript for backend development, opening up new possibilities for full-stack JavaScript development.
+
+9. **Rise of Single Page Applications (SPAs)**: With the advent of powerful JavaScript frameworks like Angular, React, and Vue.js, SPAs became increasingly popular. SPAs load a single HTML page and dynamically update content as the user interacts with the application, providing a smoother and more responsive user experience.
+
+Today, JavaScript is one of the most widely used programming languages, powering not only web browsers but also server-side applications, mobile apps, desktop apps, and even IoT devices. Its versatility and vibrant ecosystem continue to drive innovation in software development.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Q.4. - Differnce between Input and Output Device ?
+Ans - Input and output devices are two fundamental types of peripherals used in computer systems. They serve distinct purposes in facilitating communication between users and computers:
+
+1. **Input Devices**:
+
+   - Input devices are used to provide data and instructions to a computer system.
+   - They allow users to input data or commands into the computer for processing.
+   - Examples of input devices include keyboards, mice, touchscreens, scanners, microphones, and digital cameras.
+   - Input devices convert physical actions, such as typing on a keyboard or moving a mouse, into digital signals that the computer can process.
+   - The data entered through input devices is processed by the computer's CPU and software to perform various tasks or operations.
+
+2. **Output Devices**:
+
+   - Output devices are used to display or present processed data or information to the user.
+   - They allow users to view or perceive the results of computer processing.
+   - Examples of output devices include monitors, printers, speakers, projectors, and headphones.
+   - Output devices convert digital signals generated by the computer into human-readable or perceivable forms, such as text, images, sounds, or video.
+   - They convey information processed by the computer to the user in a format that can be understood or interpreted.
+   
+In summary, input devices enable users to provide input to the computer, while output devices enable the computer to communicate information to the user. Both types of devices play essential roles in the interaction between users and computers, facilitating the input, processing, and output of data and information.
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Q.5. - What is an Interface ?
+Ans - An interface is a boundary or connection point between two systems, devices, or components where interaction or communication occurs. In computing, an interface typically refers to:
+
+1. **User Interface (UI)**:
+   - A user interface is the means through which users interact with a computer, software application, or electronic device.
+   - It encompasses the visual elements, controls, and functionalities that enable users to input commands, manipulate data, and receive feedback.
+   - Examples of user interfaces include graphical user interfaces (GUIs), command-line interfaces (CLIs), touchscreens, voice commands, and virtual reality interfaces.
+   
+2. **Application Programming Interface (API)**:
+   - An application programming interface is a set of rules, protocols, and tools that allow different software applications to communicate with each other.
+   - APIs define the methods and data formats that applications can use to request or exchange information and perform tasks.
+   - They provide a standardized way for developers to integrate functionalities from one software component or service into another.
+   - Examples of APIs include web APIs (e.g., RESTful APIs), operating system APIs (e.g., Windows API, POSIX), library APIs (e.g., standard C library), and hardware APIs (e.g., OpenGL for graphics rendering).
+   
+3. **Hardware Interface**:
+   - A hardware interface is the physical or logical connection point between hardware components or devices.
+   - It specifies the protocols, signals, and electrical or mechanical characteristics required for communication between devices.
+   - Examples of hardware interfaces include USB ports, HDMI ports, Ethernet ports, PCI Express slots, and serial communication interfaces (e.g., UART, SPI, I2C).
+
+Interfaces play a crucial role in enabling interoperability, communication, and interaction between different systems, devices, or software components. They provide abstraction layers that hide the complexity of underlying systems, allowing users or developers to interact with them in a standardized and intuitive manner.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
